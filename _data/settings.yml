@@ -59,9 +59,9 @@ contact: >
 #-------------------------------
 # Work Section
 
-projects:
+#projects:
 
-- {name: '', folder: '', file: '', cover: ''}
+#- {name: '', folder: '', file: '', cover: ''}
 
 
 
