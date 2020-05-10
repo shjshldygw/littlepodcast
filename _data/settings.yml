@@ -3,8 +3,8 @@
 
 menu:
 # - {name: 'works', url: ''}
-- {name: 'texts', url: 'pages/texts.html'}
-- {name: 'about', url: 'pages/about.html'}
+#- {name: 'texts', url: 'pages/texts.html'}
+#- {name: 'about', url: 'pages/about.html'}
 - {name: 'contact', url: 'pages/contact.html'}
 
 #-------------------------------
