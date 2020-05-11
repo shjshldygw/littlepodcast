@@ -4,14 +4,19 @@ title: Home
 ---
 
 
-<section>
-    {% for item in site.data.settings.menu %}
-      <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
-    {% endfor %}
-</section>
 
 <section>
   <div class="blog-container">
+  
+    {% for item in site.data.settings.menu %}
+      <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
+	
+	    <br/>
+	    <br/>
+	    <br/>
+	    <br/>
+	
     {% for post in site.posts %}
       <div class="blog-unit">
 	    <br/>
