@@ -3,13 +3,13 @@ layout: default
 title: Home
 ---
 
-
-
 <section>
   <div class="blog-container">
   
     {% for item in site.data.settings.menu %}
-      <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
+		<div class="blog-unit">
+			<h1><a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a></h1>
+		</div>
     {% endfor %}
 	
 	    <br/>
