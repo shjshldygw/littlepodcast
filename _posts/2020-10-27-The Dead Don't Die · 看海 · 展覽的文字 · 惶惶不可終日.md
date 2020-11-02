@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Dead Don't Die · 去看海 · 展覽的文字 · 惶惶不可終日"
+title: "The Dead Don't Die · 看海 · 展覽的文字 · 惶惶不可終日"
 ---
 
   
