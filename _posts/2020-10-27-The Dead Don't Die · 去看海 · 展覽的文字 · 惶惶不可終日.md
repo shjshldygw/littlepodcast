@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "（有劇透）剛才看了個電影叫《The Dead Don't Die》。"
+title: "The Dead Don't Die · 去看海 · 展覽的文字 · 惶惶不可終日"
 ---
 
   
